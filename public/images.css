@@ -35,6 +35,6 @@ body {
 
 @media screen and ( min-width: 400px ) {
   .carousel img {
-    height: 500px;
+    height: 400px;
   }
 }
