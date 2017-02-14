@@ -21,8 +21,16 @@ body {
 }
 
 .flickity-page-dots {
-  bottom: -50px;
-  margin-top: 10px;
+  bottom: 0px;
+}
+
+/* dots are lines */
+.flickity-page-dots .dot {
+  height: 4px;
+  width: 40px;
+  margin: 0;
+  border-radius: 0;
+  background: white;
 }
 
 @media screen and ( min-width: 400px ) {
