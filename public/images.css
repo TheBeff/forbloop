@@ -21,11 +21,11 @@ body {
 }
 
 .flickity-page-dots {
-  bottom: -60px;
+  bottom: -50px;
 }
 
 @media screen and ( min-width: 400px ) {
   .carousel img {
-    height: 700px;
+    height: 600px;
   }
 }
